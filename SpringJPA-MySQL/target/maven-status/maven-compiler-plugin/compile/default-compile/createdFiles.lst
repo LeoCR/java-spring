@@ -1,0 +1,4 @@
+com/javasampleapproach/mysql/model/Customer.class
+com/javasampleapproach/mysql/repo/CustomerRepository.class
+com/javasampleapproach/mysql/SpringJpaMySqlApplication.class
+com/javasampleapproach/mysql/controller/WebController.class
